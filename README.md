@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Mforeverr
+- 👋 Howdy, I’m @Mforeverr
 - 👀 I’m interested in AI/Ml and Computer Vision
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on AI/Ml and Cpmputer Vision project for junior
+- 🌱 I’m currently a year one student on System Information Major. Learning Computer Vision by myself
+- 💞️ I’m looking to collaborate on AI/Ml and Computer Vision project for real-life application
 - 📫 How to reach me: here
-- ⚡ Fun fact: Nah
+- ⚡ Fun fact: I'm very curious with this industry
 
 <!---
 Mforeverr/Mforeverr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
